@@ -1,1 +1,16 @@
-files
+Scraping
+Scrapper.ipynb
+
+Data cleaning, normalization and training formatting
+instruction-response-formatting.ipynb
+prepare-training-data.ipynb
+Data_processing.ipynb
+
+SFT
+Tamil_Poetry_LoRA_LLaMA_Finetuning.ipynb
+
+LLM-Prosody Pipeline for poem generation
+Tamil_Poetry_LLM_prosody pipeline.ipynb
+
+Evaluation
+Tamil_poetry_ai_Evaluation.ipynb
