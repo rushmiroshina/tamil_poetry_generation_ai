@@ -1,0 +1,994 @@
+[
+  {
+    "id": 1,
+    "poet": "ஒளவையார்",
+    "theme": "அறம்",
+    "poem": [
+      "சாந்துணையும் தாழம் இல்லையேல்  ச",
+      "இனிதன்னும் வேராதும் கண்டீர்    த",
+      "அன்றே ஆகுமடி என்செய்வேன் ந",
+      "பற்றால் பெண்டாய்ப் பேதைச் சொல்வ"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.8000000000000002,
+      "style_score": 1.0,
+      "validation_score": 0.8999999999999999,
+      "pass_rate": 100.0,
+      "avg_word_count": 4.0,
+      "word_count_std": 0.0,
+      "validations": [
+        {
+          "line": "சாந்துணையும் தாழம் இல்லையேல்  ச",
+          "word_count": 4,
+          "char_count": 31,
+          "prosody_score": 0.7500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.875,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "இனிதன்னும் வேராதும் கண்டீர்    த",
+          "word_count": 4,
+          "char_count": 32,
+          "prosody_score": 0.7500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.875,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "அன்றே ஆகுமடி என்செய்வேன் ந",
+          "word_count": 4,
+          "char_count": 26,
+          "prosody_score": 0.8500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.925,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "பற்றால் பெண்டாய்ப் பேதைச் சொல்வ",
+          "word_count": 4,
+          "char_count": 31,
+          "prosody_score": 0.8500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.925,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "poet": "ஒளவையார்",
+    "theme": "அறம்",
+    "poem": [
+      "உற்றார் உறவர் ஒருவர்க்கு உதவும்பொருட்டு",
+      "இரந்தனவும் ஓவாதே யாம்சாம",
+      "அவள்மேல் வைத்தபயம் இல்லையேல்  நல்லமை",
+      "தண்ணீர்த் தமிழிசைக் குடம்ப"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.7125,
+      "style_score": 0.9875,
+      "validation_score": 0.8500000000000001,
+      "pass_rate": 100.0,
+      "avg_word_count": 3.5,
+      "word_count_std": 0.5,
+      "validations": [
+        {
+          "line": "உற்றார் உறவர் ஒருவர்க்கு உதவும்பொருட்டு",
+          "word_count": 4,
+          "char_count": 39,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 0.96,
+          "validation_score": 0.78,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "இரந்தனவும் ஓவாதே யாம்சாம",
+          "word_count": 3,
+          "char_count": 24,
+          "prosody_score": 0.8,
+          "style_score": 1.0,
+          "validation_score": 0.9,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "அவள்மேல் வைத்தபயம் இல்லையேல்  நல்லமை",
+          "word_count": 4,
+          "char_count": 36,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 0.99,
+          "validation_score": 0.795,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "தண்ணீர்த் தமிழிசைக் குடம்ப",
+          "word_count": 3,
+          "char_count": 26,
+          "prosody_score": 0.8500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.925,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "poet": "ஒளவையார்",
+    "theme": "காதல்",
+    "poem": [
+      "இடுக்கிடைமை வண்டாட்டம் உடையார்க்கு",
+      "ஊர்தோறும் சென்று நின்றால்  அனைத்தும் பகை",
+      "அன்னிடத்தில் அன்புடையார் இல்லையெனக் கேள",
+      "புவிலாத் திருக்குமோ அன்றிப் புறத்தோ ந"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.6500000000000001,
+      "style_score": 0.9725,
+      "validation_score": 0.81125,
+      "pass_rate": 100.0,
+      "avg_word_count": 4.25,
+      "word_count_std": 0.82915619758885,
+      "validations": [
+        {
+          "line": "இடுக்கிடைமை வண்டாட்டம் உடையார்க்கு",
+          "word_count": 3,
+          "char_count": 34,
+          "prosody_score": 0.7000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8500000000000001,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "ஊர்தோறும் சென்று நின்றால்  அனைத்தும் பகை",
+          "word_count": 5,
+          "char_count": 40,
+          "prosody_score": 0.6500000000000001,
+          "style_score": 0.95,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "அன்னிடத்தில் அன்புடையார் இல்லையெனக் கேள",
+          "word_count": 4,
+          "char_count": 39,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 0.96,
+          "validation_score": 0.78,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "புவிலாத் திருக்குமோ அன்றிப் புறத்தோ ந",
+          "word_count": 5,
+          "char_count": 37,
+          "prosody_score": 0.6500000000000001,
+          "style_score": 0.98,
+          "validation_score": 0.8150000000000001,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "poet": "ஒளவையார்",
+    "theme": "காதல்",
+    "poem": [
+      "இறந்து வாழ்வளே ஆகுமாம் நன்ற",
+      "கொற்றவன் தன்னில்லையேல் அவன்தன்னில",
+      "நன்றுதான் காண்ப தவர்க்குச் சொல்லெ",
+      "உண்டாயின் உயிர்மெய்வும் அழியாத"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.75,
+      "style_score": 1.0,
+      "validation_score": 0.875,
+      "pass_rate": 100.0,
+      "avg_word_count": 3.5,
+      "word_count_std": 0.5,
+      "validations": [
+        {
+          "line": "இறந்து வாழ்வளே ஆகுமாம் நன்ற",
+          "word_count": 4,
+          "char_count": 27,
+          "prosody_score": 0.8,
+          "style_score": 1.0,
+          "validation_score": 0.9,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "கொற்றவன் தன்னில்லையேல் அவன்தன்னில",
+          "word_count": 3,
+          "char_count": 33,
+          "prosody_score": 0.7000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8500000000000001,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "நன்றுதான் காண்ப தவர்க்குச் சொல்லெ",
+          "word_count": 4,
+          "char_count": 33,
+          "prosody_score": 0.7500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.875,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "உண்டாயின் உயிர்மெய்வும் அழியாத",
+          "word_count": 3,
+          "char_count": 30,
+          "prosody_score": 0.7500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.875,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "poet": "ஒளவையார்",
+    "theme": "இயற்கை",
+    "poem": [
+      "நடுக்கினிலே நண்டாலும் நண்பல்ல",
+      "தருகிலோர் தார்த்தமடா திருக்கு",
+      "அறம்கூட்டாமை ஆழ்ச்சிக்கு அழகு",
+      "மாசும் மாமரமும் சிதையாமல்  நல்ல"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.7500000000000002,
+      "style_score": 1.0,
+      "validation_score": 0.875,
+      "pass_rate": 100.0,
+      "avg_word_count": 3.25,
+      "word_count_std": 0.4330127018922193,
+      "validations": [
+        {
+          "line": "நடுக்கினிலே நண்டாலும் நண்பல்ல",
+          "word_count": 3,
+          "char_count": 29,
+          "prosody_score": 0.8,
+          "style_score": 1.0,
+          "validation_score": 0.9,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "தருகிலோர் தார்த்தமடா திருக்கு",
+          "word_count": 3,
+          "char_count": 29,
+          "prosody_score": 0.7500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.875,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "அறம்கூட்டாமை ஆழ்ச்சிக்கு அழகு",
+          "word_count": 3,
+          "char_count": 29,
+          "prosody_score": 0.8,
+          "style_score": 1.0,
+          "validation_score": 0.9,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "மாசும் மாமரமும் சிதையாமல்  நல்ல",
+          "word_count": 4,
+          "char_count": 31,
+          "prosody_score": 0.6500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8250000000000001,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "poet": "ஒளவையார்",
+    "theme": "இயற்கை",
+    "poem": [
+      "ஆற்றோடு வாழ்தல் சிறந்தது  நல்லோர்க்கு",
+      "வாரும் உண்டோ அழிந்து போவார்க் கில்லை",
+      "இரண்டும் கொண்டாமல் இருந்தால் செந்த",
+      "உண்மையின் பயன்அடையா திருந்தாய்  ச"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.7000000000000002,
+      "style_score": 0.9924999999999999,
+      "validation_score": 0.8462500000000002,
+      "pass_rate": 100.0,
+      "avg_word_count": 4.25,
+      "word_count_std": 0.4330127018922193,
+      "validations": [
+        {
+          "line": "ஆற்றோடு வாழ்தல் சிறந்தது  நல்லோர்க்கு",
+          "word_count": 4,
+          "char_count": 37,
+          "prosody_score": 0.7000000000000001,
+          "style_score": 0.98,
+          "validation_score": 0.8400000000000001,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "வாரும் உண்டோ அழிந்து போவார்க் கில்லை",
+          "word_count": 5,
+          "char_count": 36,
+          "prosody_score": 0.7500000000000001,
+          "style_score": 0.99,
+          "validation_score": 0.8700000000000001,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "இரண்டும் கொண்டாமல் இருந்தால் செந்த",
+          "word_count": 4,
+          "char_count": 34,
+          "prosody_score": 0.7000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8500000000000001,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "உண்மையின் பயன்அடையா திருந்தாய்  ச",
+          "word_count": 4,
+          "char_count": 33,
+          "prosody_score": 0.6500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8250000000000001,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "poet": "ஒளவையார்",
+    "theme": "வாழ்க்கை",
+    "poem": [
+      "பொல்லாங்கு மகிழ்ச்சி பொல்லாதார்க்கு இல்லை",
+      "நடுக்கினக்குத் தமிழர்க் கில்லை",
+      "சிறப்புடையார்க்குக் கூடாமல் போகும்படி",
+      "இன்னத் துறைக்குப் போகேல் செம்மறு"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.7125,
+      "style_score": 0.98,
+      "validation_score": 0.8462500000000001,
+      "pass_rate": 100.0,
+      "avg_word_count": 3.5,
+      "word_count_std": 0.5,
+      "validations": [
+        {
+          "line": "பொல்லாங்கு மகிழ்ச்சி பொல்லாதார்க்கு இல்லை",
+          "word_count": 4,
+          "char_count": 41,
+          "prosody_score": 0.7000000000000001,
+          "style_score": 0.94,
+          "validation_score": 0.8200000000000001,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "நடுக்கினக்குத் தமிழர்க் கில்லை",
+          "word_count": 3,
+          "char_count": 30,
+          "prosody_score": 0.8,
+          "style_score": 1.0,
+          "validation_score": 0.9,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "சிறப்புடையார்க்குக் கூடாமல் போகும்படி",
+          "word_count": 3,
+          "char_count": 37,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 0.98,
+          "validation_score": 0.79,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "இன்னத் துறைக்குப் போகேல் செம்மறு",
+          "word_count": 4,
+          "char_count": 32,
+          "prosody_score": 0.7500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.875,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "poet": "ஒளவையார்",
+    "theme": "வாழ்க்கை",
+    "poem": [
+      "இறந்தோர்க்கு இரங்கு உலகம் இல்லை",
+      "நட்டாலே நண்படைவான்  இதுவும் நன்று",
+      "ஆற்றோடு வாழ்வேன் என்றும் செம்மறியே",
+      "உண்டாயின் நீர்வறோல் தான்பால் நெ"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.7375,
+      "style_score": 1.0,
+      "validation_score": 0.86875,
+      "pass_rate": 100.0,
+      "avg_word_count": 4.0,
+      "word_count_std": 0.0,
+      "validations": [
+        {
+          "line": "இறந்தோர்க்கு இரங்கு உலகம் இல்லை",
+          "word_count": 4,
+          "char_count": 31,
+          "prosody_score": 0.7000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8500000000000001,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "நட்டாலே நண்படைவான்  இதுவும் நன்று",
+          "word_count": 4,
+          "char_count": 33,
+          "prosody_score": 0.7000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8500000000000001,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "ஆற்றோடு வாழ்வேன் என்றும் செம்மறியே",
+          "word_count": 4,
+          "char_count": 34,
+          "prosody_score": 0.7500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.875,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "உண்டாயின் நீர்வறோல் தான்பால் நெ",
+          "word_count": 4,
+          "char_count": 31,
+          "prosody_score": 0.8,
+          "style_score": 1.0,
+          "validation_score": 0.9,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "poet": "பாரதிதாசன்",
+    "theme": "அறம்",
+    "poem": [
+      "நாடெங்கும் நீலிக்கச் செய்தாய்த்  தேடு",
+      "நெஞ்சுடையார் என்றன் தாய்க்குச் செய்திக் கிடந்ததும் நல்ல",
+      "எங்கள் திருநிலைக்குத் திராவிடர் தாலேல் என்னே",
+      "இரவுநிகர் வௌிவந்து நின்றான் எவனென்று"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.6375000000000001,
+      "style_score": 0.9875,
+      "validation_score": 0.8125,
+      "pass_rate": 100.0,
+      "avg_word_count": 4.75,
+      "word_count_std": 0.82915619758885,
+      "validations": [
+        {
+          "line": "நாடெங்கும் நீலிக்கச் செய்தாய்த்  தேடு",
+          "word_count": 4,
+          "char_count": 37,
+          "prosody_score": 0.7500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.875,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "நெஞ்சுடையார் என்றன் தாய்க்குச் செய்திக் கிடந்ததும் நல்ல",
+          "word_count": 6,
+          "char_count": 55,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 0.95,
+          "validation_score": 0.775,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "எங்கள் திருநிலைக்குத் திராவிடர் தாலேல் என்னே",
+          "word_count": 5,
+          "char_count": 44,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "இரவுநிகர் வௌிவந்து நின்றான் எவனென்று",
+          "word_count": 4,
+          "char_count": 36,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "poet": "பாரதிதாசன்",
+    "theme": "அறம்",
+    "poem": [
+      "என்செய்வது என்புனைவுச் செம்ம றிந்துசெ",
+      "தழைக்கும் மாவின்பால் தடுக்கையில் ஓடித் தாவி",
+      "எலிகொட்டும் எலும்பியும் விலங்குகின்றேன் என்ற",
+      "பறவைகள் பறந்து செல்லும்அசையாமல் இருக்க லா"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.6250000000000001,
+      "style_score": 1.0,
+      "validation_score": 0.8125,
+      "pass_rate": 100.0,
+      "avg_word_count": 4.5,
+      "word_count_std": 0.5,
+      "validations": [
+        {
+          "line": "என்செய்வது என்புனைவுச் செம்ம றிந்துசெ",
+          "word_count": 4,
+          "char_count": 37,
+          "prosody_score": 0.7000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8500000000000001,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "தழைக்கும் மாவின்பால் தடுக்கையில் ஓடித் தாவி",
+          "word_count": 5,
+          "char_count": 43,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "எலிகொட்டும் எலும்பியும் விலங்குகின்றேன் என்ற",
+          "word_count": 4,
+          "char_count": 44,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "பறவைகள் பறந்து செல்லும்அசையாமல் இருக்க லா",
+          "word_count": 5,
+          "char_count": 41,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "poet": "பாரதிதாசன்",
+    "theme": "காதல்",
+    "poem": [
+      "காதலி என்னில்லை என்றுரைத்தான்  அவன் அன்றோ",
+      "புன்னைகள் தன்னைக் கண்டு  கொண்டாள்  அவள்உ",
+      "அண்டையிலே ஒற்றினாள்  அன்னோடிலே  சகி",
+      "நொண்டிருந்த பூங்கொத்தையை  வேலன் தாளே"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.6625000000000001,
+      "style_score": 1.0,
+      "validation_score": 0.83125,
+      "pass_rate": 100.0,
+      "avg_word_count": 4.5,
+      "word_count_std": 0.5,
+      "validations": [
+        {
+          "line": "காதலி என்னில்லை என்றுரைத்தான்  அவன் அன்றோ",
+          "word_count": 5,
+          "char_count": 41,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "புன்னைகள் தன்னைக் கண்டு  கொண்டாள்  அவள்உ",
+          "word_count": 5,
+          "char_count": 40,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "அண்டையிலே ஒற்றினாள்  அன்னோடிலே  சகி",
+          "word_count": 4,
+          "char_count": 35,
+          "prosody_score": 0.7000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8500000000000001,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "நொண்டிருந்த பூங்கொத்தையை  வேலன் தாளே",
+          "word_count": 4,
+          "char_count": 36,
+          "prosody_score": 0.7500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.875,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "poet": "பாரதிதாசன்",
+    "theme": "காதல்",
+    "poem": [
+      "காதலி யோடு சென்றுவிடுவாள்  என்று சொல்லிச் சென்றார் ம",
+      "கொன்றெடுத்த விளக்குமேல் அம்மலைப் போல",
+      "அறுசிசாவ லாலே தமிழர்க்கோர் க",
+      "இந்நாடு என்றன் கண்ணில் நீவிப்பாய் உன்பால் காவே"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.6375000000000001,
+      "style_score": 0.995,
+      "validation_score": 0.8162500000000001,
+      "pass_rate": 100.0,
+      "avg_word_count": 5.25,
+      "word_count_std": 1.299038105676658,
+      "validations": [
+        {
+          "line": "காதலி யோடு சென்றுவிடுவாள்  என்று சொல்லிச் சென்றார் ம",
+          "word_count": 7,
+          "char_count": 52,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 0.98,
+          "validation_score": 0.79,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "கொன்றெடுத்த விளக்குமேல் அம்மலைப் போல",
+          "word_count": 4,
+          "char_count": 36,
+          "prosody_score": 0.6500000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8250000000000001,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "அறுசிசாவ லாலே தமிழர்க்கோர் க",
+          "word_count": 4,
+          "char_count": 28,
+          "prosody_score": 0.7000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8500000000000001,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "இந்நாடு என்றன் கண்ணில் நீவிப்பாய் உன்பால் காவே",
+          "word_count": 6,
+          "char_count": 46,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "poet": "பாரதிதாசன்",
+    "theme": "இயற்கை",
+    "poem": [
+      "நன்றுசெய்வேன் என்வாழ்வும்என் நறுமலர் வாழ்வுமே",
+      "மாதைகள் பெற்றேன்  நல்லிணக்கம் செய்தே",
+      "இனிமேல் இவ்வாறே செவ்விலக்கு செய்வோம் என்று",
+      "குடுகுடையில் வந்துபோய்க் கூப்பிடும் குரவை"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.6250000000000001,
+      "style_score": 1.0,
+      "validation_score": 0.8125,
+      "pass_rate": 100.0,
+      "avg_word_count": 4.25,
+      "word_count_std": 0.4330127018922193,
+      "validations": [
+        {
+          "line": "நன்றுசெய்வேன் என்வாழ்வும்என் நறுமலர் வாழ்வுமே",
+          "word_count": 4,
+          "char_count": 45,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "மாதைகள் பெற்றேன்  நல்லிணக்கம் செய்தே",
+          "word_count": 4,
+          "char_count": 36,
+          "prosody_score": 0.7000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8500000000000001,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "இனிமேல் இவ்வாறே செவ்விலக்கு செய்வோம் என்று",
+          "word_count": 5,
+          "char_count": 42,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "குடுகுடையில் வந்துபோய்க் கூப்பிடும் குரவை",
+          "word_count": 4,
+          "char_count": 41,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "poet": "பாரதிதாசன்",
+    "theme": "இயற்கை",
+    "poem": [
+      "தாழ்ந்து போனவர்க்கும் உதவி செய்யாமல்  அவர்பால் நட",
+      "குளிர்நாட்டின் பெருநிலைக் கலம்போலச் சே",
+      "பஞ்சமறவுக் கீலிகள் என்போர்க்குத் தென்ற",
+      "என்செய்வேன் என்றுரைத்தாள் நரிக்கண் டார்கள்   ச"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.6000000000000001,
+      "style_score": 1.0,
+      "validation_score": 0.8,
+      "pass_rate": 100.0,
+      "avg_word_count": 4.75,
+      "word_count_std": 0.82915619758885,
+      "validations": [
+        {
+          "line": "தாழ்ந்து போனவர்க்கும் உதவி செய்யாமல்  அவர்பால் நட",
+          "word_count": 6,
+          "char_count": 49,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "குளிர்நாட்டின் பெருநிலைக் கலம்போலச் சே",
+          "word_count": 4,
+          "char_count": 38,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "பஞ்சமறவுக் கீலிகள் என்போர்க்குத் தென்ற",
+          "word_count": 4,
+          "char_count": 38,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "என்செய்வேன் என்றுரைத்தாள் நரிக்கண் டார்கள்   ச",
+          "word_count": 5,
+          "char_count": 46,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "poet": "பாரதிதாசன்",
+    "theme": "வாழ்க்கை",
+    "poem": [
+      "காதலிக்குத் திம்ம முனிதன் மகன்  அவன்தான் ம",
+      "அழகுத் தமிழிலகில் நறுமலர்ச் செடி",
+      "திருத்திடும்  பெண்ணே என்நிலை எண்ணிப் பார்ப்பாய் என்று சொன்ன",
+      "ஓவியங்கள் யாவையும் நீயே எடுத்துவாஎன் றேன்என்ற"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.6000000000000001,
+      "style_score": 0.9775,
+      "validation_score": 0.7887500000000001,
+      "pass_rate": 100.0,
+      "avg_word_count": 5.5,
+      "word_count_std": 1.118033988749895,
+      "validations": [
+        {
+          "line": "காதலிக்குத் திம்ம முனிதன் மகன்  அவன்தான் ம",
+          "word_count": 6,
+          "char_count": 42,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "அழகுத் தமிழிலகில் நறுமலர்ச் செடி",
+          "word_count": 4,
+          "char_count": 32,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "திருத்திடும்  பெண்ணே என்நிலை எண்ணிப் பார்ப்பாய் என்று சொன்ன",
+          "word_count": 7,
+          "char_count": 59,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 0.91,
+          "validation_score": 0.7550000000000001,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "ஓவியங்கள் யாவையும் நீயே எடுத்துவாஎன் றேன்என்ற",
+          "word_count": 5,
+          "char_count": 45,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "poet": "பாரதிதாசன்",
+    "theme": "வாழ்க்கை",
+    "poem": [
+      "அம்மலையிலே மலைமேல் வீழ்ந்திடுகின்றார்  அந்த",
+      "தமிழர்தம் வாழ்வுடைமைச் செய்தியினைத் திரா",
+      "உன்றோர் அன்றோ என்றன் தாய் தந்தையர்தான் இந்த",
+      "வாழ்வுநிலை கண்டுநாற் படேல் என்னில் லாம ல"
+    ],
+    "validation": {
+      "total_lines": 4,
+      "prosody_score": 0.6000000000000001,
+      "style_score": 1.0,
+      "validation_score": 0.8,
+      "pass_rate": 100.0,
+      "avg_word_count": 5.0,
+      "word_count_std": 1.0,
+      "validations": [
+        {
+          "line": "அம்மலையிலே மலைமேல் வீழ்ந்திடுகின்றார்  அந்த",
+          "word_count": 4,
+          "char_count": 43,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 1
+        },
+        {
+          "line": "தமிழர்தம் வாழ்வுடைமைச் செய்தியினைத் திரா",
+          "word_count": 4,
+          "char_count": 40,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 2
+        },
+        {
+          "line": "உன்றோர் அன்றோ என்றன் தாய் தந்தையர்தான் இந்த",
+          "word_count": 6,
+          "char_count": 43,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 3
+        },
+        {
+          "line": "வாழ்வுநிலை கண்டுநாற் படேல் என்னில் லாம ல",
+          "word_count": 6,
+          "char_count": 40,
+          "prosody_score": 0.6000000000000001,
+          "style_score": 1.0,
+          "validation_score": 0.8,
+          "passes": true,
+          "line_number": 4
+        }
+      ]
+    }
+  }
+]
