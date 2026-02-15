@@ -1,0 +1,42 @@
+{
+  "poet_metrics": {
+    "ஒளவையார்": {
+      "total_poems": 8,
+      "total_lines": 32,
+      "prosody_score": 0.7265625,
+      "style_score": 0.9915625,
+      "validation_score": 0.8590625000000001,
+      "pass_rate": 100.0,
+      "avg_words_per_line": 3.78125,
+      "std_words_per_line": 0.5986638768958755,
+      "min_words": 3,
+      "max_words": 5
+    },
+    "பாரதிதாசன்": {
+      "total_poems": 8,
+      "total_lines": 32,
+      "prosody_score": 0.6234375000000001,
+      "style_score": 0.995,
+      "validation_score": 0.80921875,
+      "pass_rate": 100.0,
+      "avg_words_per_line": 4.8125,
+      "std_words_per_line": 0.9499177595981665,
+      "min_words": 4,
+      "max_words": 7
+    }
+  },
+  "consolidated_metrics": {
+    "total_poems": 16,
+    "total_lines": 64,
+    "prosody_score": 0.675,
+    "style_score": 0.99328125,
+    "validation_score": 0.834140625,
+    "pass_rate": 100.0,
+    "avg_words_per_line": 4.296875,
+    "std_words_per_line": 0.9466996537313194,
+    "min_words": 3,
+    "max_words": 7,
+    "unique_lines": 64,
+    "repetition_rate": 0.0
+  }
+}
